@@ -5,4 +5,3 @@ const timer = new CountdownTimer({
   targetDate: "2022,1,1",
 });
 timer.startCountdown();
-// timer.stopCountdown();
